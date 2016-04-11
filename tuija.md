@@ -12,3 +12,4 @@ Font-weight: Normal;
 aika ilkeesti kyl sanottu :) päivitin sun css:t
 
 //onks tyylit ok?
+Mä oon viel vissiin vähän alussa näissä visujutuissa :'(
