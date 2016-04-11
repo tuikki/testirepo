@@ -8,10 +8,10 @@ Font-family: Avenir-Next; Comic Sans;
 // tuija hei, tää on tärkee rivi!!
 Font-weight: extra-bold;
 
-
-#timon editti
+//timon editti
 
 aika ilkeesti kyl sanottu :) päivitin sun css:t
 
 //onks tyylit ok?
 Mä oon viel vissiin vähän alussa näissä visujutuissa :'(
+Joo toi Comic-Sans ei oo "ihan ok" :D
