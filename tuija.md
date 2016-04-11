@@ -9,3 +9,5 @@ Font-weight: Normal;
 #timon editti
 
 aika ilkeesti kyl sanottu :) päivitin sun css:t 
+
+//onks tyylit ok? 
