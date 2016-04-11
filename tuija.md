@@ -4,3 +4,4 @@ No nyt mulle uli paha mieli ku mä olin ilkee ja lontikka oli niin kiva
 
 Background-color: red;
 Font-family: Comic sans
+font-color: green;
