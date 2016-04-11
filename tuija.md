@@ -1,1 +1,3 @@
-Tästä tulee parempi tiedosto kuin timon tiedostosta 
+Tästä tulee parempi tiedosto kuin timon tiedostosta!
+
+No nyt mulle uli paha mieli ku mä olin ilkee ja lontikka oli niin kiva 
